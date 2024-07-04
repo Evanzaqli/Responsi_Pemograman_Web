@@ -13,10 +13,7 @@
                     <div class="mt-3">
                       <h4>Evan Zaqli</h4>
                       <p class="text-secondary mb-1">Informatics students at AMIKOM Yogyakarta University</p>
-                      <div class="btn">
-                      <button class="btn btn-primary">Follow</button>
-                      <button class="btn btn-outline-primary">Message</button>
-                    </div>
+                     
                     </div>
                   </div>
                 </div>
@@ -50,7 +47,7 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-sm-3">
-                      <h6 class="mb-0">Full Name</h6>
+                      <h6 class="mb-0">Name</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
                       Evan Zaqli
