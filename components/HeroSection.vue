@@ -9,10 +9,12 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="../assets/img/2.jpeg" alt="Admin" class="rounded-circle" width="150" height="180">
+                    <img src="../assets/img/2.jpeg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Evan Zaqli</h4>
                       <p class="text-secondary mb-1">Informatics students at AMIKOM Yogyakarta University</p>
+                      <button class="btn btn-primary">Follow</button>
+                      <button class="btn btn-outline-primary">Message</button>
                      
                     </div>
                   </div>
@@ -86,6 +88,7 @@
                   </div>
                 </div>
               </div>
+             
 
               <div class="row gutters-sm">
                 <div class="col-sm-6 mb-3">
@@ -115,30 +118,31 @@
                     </div>
                   </div>
                 </div>
+                
                 <div class="col-sm-6 mb-3">
                   <div class="card h-100">
                     <div class="card-body">
-                      <h6 class="d-flex align-items-center mb-3">Project Status</h6>
-                      <small>Web Design</small>
-                      <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Website Markup</small>
-                      <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>One Page</small>
-                      <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Mobile Template</small>
-                      <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Backend API</small>
-                      <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
+                      <h5 class="d-flex align-items-center mb-3">Project Status</h5>
+									<p>Web Design</p>
+									<div class="progress mb-3" style="height: 5px">
+										<div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+									</div>
+									<p>Website Markup</p>
+									<div class="progress mb-3" style="height: 5px">
+										<div class="progress-bar bg-danger" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+									</div>
+									<p>One Page</p>
+									<div class="progress mb-3" style="height: 5px">
+										<div class="progress-bar bg-success" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
+									</div>
+									<p>Mobile Template</p>
+									<div class="progress mb-3" style="height: 5px">
+										<div class="progress-bar bg-warning" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+									</div>
+									<p>Backend API</p>
+									<div class="progress" style="height: 5px">
+										<div class="progress-bar bg-info" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100"></div>
+									</div>
                     </div>
                   </div>
                 </div>
@@ -168,6 +172,7 @@ export default {
 }
 .btn{
   
-  margin: 5px;
+  margin: 2px;
 }
+
 </style>
