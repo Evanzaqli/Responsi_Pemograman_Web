@@ -1,1 +1,1 @@
-export { default } from "file:///D:/Responsi/Responsi_Pemograman_Web/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///C:/Users/user/Documents/Final%20Project/Pw_UTS/Responsi_Pemograman_Web/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

@@ -10,6 +10,8 @@ import ContactSection from '~/components/ContactSection.vue';
 <template>
   <div>
     <HeroSection />
+    
+   
   </div>
 </template>
 
