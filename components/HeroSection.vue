@@ -14,7 +14,7 @@
                       <h4>Evan Zaqli</h4>
                       <p class="text-secondary mb-1">Informatics students at AMIKOM Yogyakarta University</p>
                       <button class="btn btn-primary">Follow</button>
-                      <button class="btn btn-outline-primary">Message</button>
+                      <a href="https://wa.me/682269247623"><button class="btn btn-outline-primary">Message</button></a>
                      
                     </div>
                   </div>
